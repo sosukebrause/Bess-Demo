@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-11T00:59:47.475Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="Ik1-LgGh1YgzYZUcKTJN" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-11T01:21:29.292Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="jRUAcvkQEVzLu4rgk1zB" version="16.5.5" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1351" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -103,9 +103,6 @@
         <mxCell id="vfBau5Sr2Y_wCmSWyx6X-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#FFB001;strokeColor=#FFFFFF;shadow=0;strokeWidth=8;" vertex="1" parent="1">
           <mxGeometry x="870" y="30" width="260" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="vfBau5Sr2Y_wCmSWyx6X-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#D6A65E;fillColor=#C9C9C9;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="259" y="135" width="120" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="vfBau5Sr2Y_wCmSWyx6X-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#D6A65E;fillColor=#C9C9C9;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="810" y="135" width="120" height="120" as="geometry" />
         </mxCell>
@@ -129,6 +126,15 @@
         </mxCell>
         <mxCell id="vfBau5Sr2Y_wCmSWyx6X-21" value="" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;fontSize=26;fontColor=#FFFFFF;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="326" y="270" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vfBau5Sr2Y_wCmSWyx6X-30" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="830" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vfBau5Sr2Y_wCmSWyx6X-31" value="Blog&lt;br&gt;Keywords&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span&gt;Social Media&lt;/span&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FED217;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;rounded=1;labelBackgroundColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="361" y="280" width="174" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="vfBau5Sr2Y_wCmSWyx6X-39" value="Strangers" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;fillColor=#C9C9C9;gradientColor=none;strokeWidth=6;fontSize=18;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="256.5" y="135" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
